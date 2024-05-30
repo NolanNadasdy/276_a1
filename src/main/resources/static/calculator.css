@@ -1,0 +1,69 @@
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid gray;
+}
+th {
+    background-color: lightgray;
+    border: 2px solid gray;
+    padding: 10px;
+}
+td {
+    border: 2px solid gray;
+    padding: 10px;
+}
+
+
+
+
+html{
+    background-color: #a6192d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.black{
+    background-color: #3c3735;
+    padding-top:25px;
+    padding-bottom:35px;
+    box-shadow: 0px 0px 20px 5px #3c3735;
+}
+.white{
+    background-color: white;
+    padding: 20px;
+}
+.blue{
+    background-color: #e9eff1;
+    width: 70%;
+    padding: 10px;
+}
+
+h3{
+    color: #a6192d;
+}
+
+h2{
+    font-size:xx-large;
+}
+
+
+
+.math {
+    text-align: right;
+}
+.mathButton {
+    background-color: #a6192d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    width: 100px;
+}
+
+.weight, .numerator, .denominator{
+    height: 30px;
+}
